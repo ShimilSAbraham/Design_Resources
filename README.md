@@ -1,2 +1,2 @@
-# Design_Resources
+# Design_Resources  <img align = "right" src ="https://img.shields.io/github/watchers/ShimilSAbraham/Design_Resources?style=flat-square"> <img align = "right" src ="https://img.shields.io/github/stars/ShimilSAbraham/Design_Resources?style=flat-square">    <img align = "right" src ="https://img.shields.io/github/forks/ShimilSAbraham/Design_Resources?style=flat-square">
 A single place to acquire free resources
