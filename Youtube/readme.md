@@ -12,3 +12,4 @@
 - [AJ&Smart](https://www.youtube.com/channel/UCeB_OpLspKJGiKv1CYkWFFw)
 - [InVision](https://www.youtube.com/c/Invisionappinc/featured)
 - [WIll Patterson](https://www.youtube.com/user/breakdesignsco)
+- [Pixiperfect](https://www.youtube.com/channel/UCMrvLMUITAImCHMOhX88PYQ)
